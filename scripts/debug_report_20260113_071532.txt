@@ -1,0 +1,25 @@
+======================================== 
+NCKH PROJECT DEBUG REPORT 
+======================================== 
+ 
+Timestamp: 2026-01-13 07:15:32 
+Computer: DESKTOP-0QINV44 
+User: AdminT 
+ 
+======================================== 
+SYSTEM INFORMATION 
+======================================== 
+OS Version: 
+
+Microsoft Windows [Version 10.0.26200.7462]
+ 
+Java Version: 
+openjdk version "21.0.7" 2025-04-15 LTS
+OpenJDK Runtime Environment Temurin-21.0.7+6 (build 21.0.7+6-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.7+6 (build 21.0.7+6-LTS, mixed mode, sharing)
+ 
+Node.js Version: 
+v22.20.0
+ 
+NPM Version: 
+10.9.3
